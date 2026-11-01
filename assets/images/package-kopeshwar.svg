@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180">
+  <rect width="640" height="180" fill="#3d2c1e"/>
+  <rect x="240" y="35" width="160" height="100" fill="#8b6914" opacity="0.5"/>
+  <path d="M240 75 L320 25 L400 75 L400 135 L240 135 Z" fill="#c9a227" opacity="0.75"/>
+  <rect x="290" y="90" width="60" height="45" fill="#4a1018"/>
+  <text x="320" y="165" text-anchor="middle" fill="#f3ebe0" font-family="Georgia, serif" font-size="14">Kopeshwar Mandir · 3 Days</text>
+</svg>
